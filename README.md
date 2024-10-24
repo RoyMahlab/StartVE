@@ -22,4 +22,4 @@ To set up the environment, run the provided file (e.g., `install_env.sh` or `env
 Feel free to modify or add any other dependencies as required.
 
 ```bash
-wget https://github.com/RoyMahlab/StartVE/tree/main/environment.yaml | conda env create -f environment.yaml
+wget https://raw.githubusercontent.com/RoyMahlab/StartVE/main/environment.yaml | conda env create -f environment.yaml
